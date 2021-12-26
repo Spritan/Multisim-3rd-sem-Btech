@@ -1,4 +1,5 @@
 # Multisim-3rd sem Btech
+## Network Theory 
 - Verification of principle of superposition with dc and ac sources.
 - Verification of Thevenin, Norton and Maximum power transfer theorems in ac circuits
 - Verification of Tellegen’s theorem for two networks of the same topology.
